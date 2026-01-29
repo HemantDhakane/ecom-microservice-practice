@@ -1,0 +1,11 @@
+
+
+spring:
+  application:
+    name: configdemo
+
+#build:
+#  id: 1001
+#  name: development
+#  type: development config type
+#  version: 1.0.0.2
